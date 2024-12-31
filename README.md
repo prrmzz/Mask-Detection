@@ -1,5 +1,6 @@
 # Mask-Detection
-1. Algorithm
+# 1. Algorithm
+
 This project uses a Convolutional Neural Network (CNN) to classify images into two categories:
 
 With Mask
@@ -22,7 +23,8 @@ Training:
 Optimizer: Adam with a learning rate of 0.0001.
 Loss Function: Binary Crossentropy.
 Callbacks: Early stopping and learning rate reduction to prevent overfitting.
-2. Results
+
+# 2. Results
 Training and Validation Accuracy:
 
 Training Accuracy: 81.58% (Epoch 17)
